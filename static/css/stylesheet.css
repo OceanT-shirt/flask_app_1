@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN", serif;
+}
+
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+}
+
+
+.header-left {
+    float: left;
+    color: azure;
+    background-color: darkred;
+}
+
+
+.header-right {
+    float: right;
+    background-color: gainsboro;
+}
